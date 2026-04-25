@@ -3,7 +3,7 @@
 > It is publicly available for my own convenience and to help and inspire others.
 > It is not intended for direct use.
 
-[!NOTE]
+[!INFO]
 > Here I will store both individual dotfiles and complete, organized configurations (like Hyprland dotfiles).
 
 # my-dotfiles-hyperland

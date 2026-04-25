@@ -5,6 +5,3 @@
 
 > [!NOTE]
 > Here I will store both individual dotfiles and complete, organized configurations (like Hyprland dotfiles).
-
-# my-dotfiles-hyperland
-My personal dotfiles for CachyOS + Hyprland
